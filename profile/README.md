@@ -6,4 +6,5 @@
 
 ### Тестируем JEP 491 вместе с Деном Вегой
 [Статья](https://habr.com/ru/companies/spring_aio/articles/900930/)
+
 [Репозиторий](https://github.com/spring-aio/java24-pinning)
